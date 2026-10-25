@@ -1,4 +1,4 @@
-# fiis
+# aporte-fii
 
 CLI que diz em quais FIIs pôr o aporte do mês, para uma carteira de longo prazo focada em renda mensal. Ela nunca sugere venda: o rebalanceamento acontece só pelos aportes.
 
@@ -44,3 +44,7 @@ Proventos passados não garantem os futuros. A escolha dos FIIs e dos pesos cont
 node --test                          # testes das regras (src/carteira.ts)
 node node_modules/typescript/bin/tsc # type-check
 ```
+
+## Licença
+
+[MIT](LICENSE)
